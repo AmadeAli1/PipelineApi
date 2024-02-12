@@ -1,0 +1,48 @@
+*** Descrição do problema: 
+Cinemas em Moçambique, inclusive a cadeia NuMetro, requerem um sistema de gestão online que possa ser facilmente acessado por dispositivos móveis e pela web. O problema reside nas dificuldades que os clientes enfrentam com a compra de ingressos, as quais incluem filas longas e falta de informação disponível sobre as exibições. 
+
+
+O problema real enfrentado pela cadeia de cinemas NuMetro em Moçambique é a falta de uma solução integrada e acessível de gestão de cinemas que apoie tanto os clientes quanto os administradores de cinema. 
+
+Do lado do cliente, as dificuldades concentram-se primariamente na aquisição de ingressos, que atualmente pode exigir a presença física e resultar em longas filas, além de carecer de informações em tempo real sobre disponibilidade de lugares e sessões de filmes. Isso não apenas gera incômodo e insatisfação, mas também pode levar à perda de receita para os cinemas, caso os clientes optem por não assistir aos filmes devido aos inconvenientes.
+
+Um sistema de gestão de cinema online robusto e fácil de utilizar, acessível via mobile e web, não está presente no mercado, resultando nessas lacunas tanto na experiência do consumidor como na operação e gestão do cinema.
+
+
+''Além disso, os gerentes de cinema necessitam de um sistema para entender melhor os hábitos dos consumidores e gerir as vendas e programações de maneira eficiente. Um sistema de gestão de cinema online personalizado resolverá esses problemas ao oferecer uma melhor experiência do cliente e ao fornecer aos gestores dados valiosos para decisões informadas. ''
+
+
+
+Para o tema de licenciatura em Engenharia Informática focado no desenvolvimento de um sistema de gestão de cinemas em Moçambique, os objetivos podem ser delineados da seguinte forma:
+
+**Objetivo Geral:**
+
+- Desenvolver um sistema de gestão de cinemas abrangente e adaptado à realidade moçambicana que inclua funcionalidades de compra e reserva online de bilhetes.
+
+O objetivo geral deste projeto de licenciatura em Engenharia Informática é projetar e implementar um sistema de gestão de cinema online NuMetro em Moçambique, adequado para dispositivos móveis e web, que facilite aos usuários a compreensão e interação com a programação de filmes, a identificação de sessões, e a realização de reservas e compras de ingressos de modo eficiente, enquanto fornece aos gestores as ferramentas para analisar o desempenho das vendas, conhecer as preferências dos clientes e gerir as operações do cinema de forma eficaz.
+
+
+
+**Objetivos Específicos:**
+
+1. Analisar as necessidades do mercado cinematográfico moçambicano para aprimorar a experiência de usuários e gestores de cinemas.
+   
+2. Projeto e implementação de uma interface de usuário amigável para facilitar a navegação e a compra de bilhetes online por parte dos consumidores.
+
+3. Desenhar uma base de dados segura e eficiente que permita o armazenamento e a gestão dos dados dos utilizadores e das sessões de cinema.
+
+4. Integrar métodos de pagamento locais e internacionais para proporcionar aos usuários várias opções de pagamento seguro na plataforma.
+
+5. Desenvolver um sistema de administração para os gestores dos cinemas que permita a fácil atualização de horários, filmes em exibição e gestão de salas e lugares.
+
+6. Implementar um módulo de relatórios que auxilie os gestores na tomada de decisão com base em dados recolhidos, como vendas e padrões de frequência dos clientes.
+
+7. Assegurar a conformidade do sistema com as legislações locais de privacidade e de transações online.
+
+8. Realizar testes com usuários para validar a usabilidade do sistema e garantir uma experiência do usuário sem falhas.
+
+9. Estabelecer uma estratégia de manutenção e atualização contínua do sistema para se adaptar às mudanças tecnológicas e às necessidades do mercado.
+
+Esses objetivos específicos buscam atingir a eficácia operacional, a satisfação do cliente e a viabilidade econômica do sistema de gestão de cinemas, atendendo às expectativas do projeto de licenciatura.
+
+
